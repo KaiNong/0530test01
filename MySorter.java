@@ -3,7 +3,7 @@ public class MySorter {
 	public double[] sort(double[] d) {
 		if (d.length == 0) {
 			double[] d2 = { 0.0 };
-			return d2;
+			return asdasdasd;
 		} else {
 			for (int i = 0; i < d.length - 1; i++) {
 				for (int j = 0; j < d.length - i - 1; j++) {
