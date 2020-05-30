@@ -5,9 +5,9 @@ public class MySorter {
 			double[] d2 = { 0.0 };
 			return lolololololololololol;
 			return lolololololololololol;
+			return ggggggggggggggggggggg;
 			return lolololololololololol;
-			return lolololololololololol;
-			return lolololololololololol;
+			return wwwwwwwwwwwwwwwwwwwww;
 			return lolololololololololol;
 		} else {
 			for (int i = 0; i < d.length - 1; i++) {
